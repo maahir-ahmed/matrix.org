@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Matrix Server</title>
+</head>
+<body>
+    <h1>Welcome to My Matrix Server</h1>
+    <p>Access the server at <a href="https://matrix.yourdomain.com">matrix.yourdomain.com</a>.</p>
+</body>
+</html>
